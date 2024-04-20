@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "bewhite.psrule-vscode"
+        "bewhite.psrule-vscode",
+        "ms-vscode-remote.remote-containers"
     ]
 }
